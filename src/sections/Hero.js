@@ -5,7 +5,7 @@ const Hero = () => {
     return (
         <section
             id="main"
-            className="relative py-36 text-center bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900 px-4 overflow-hidden"
+            className="relative py-52 text-center bg-gradient-to-b bg-gray-900 px-4 overflow-hidden"
         >
             {/* 흐르는 원형 배경 효과 */}
             <div className="absolute top-10 left-1/2 transform -translate-x-1/2 w-96 h-96 bg-blue-700 opacity-20 rounded-full blur-3xl animate-pulse"></div>

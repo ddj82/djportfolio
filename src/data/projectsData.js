@@ -12,11 +12,11 @@ export const projects = [
     {
         title: "bichena 프로젝트",
         description: "전통주 이커머스 사이트, 팀장으로 상품관리 및 전체 개발 리딩.",
-        link: "/assets/bichena.pdf"
+        link: "/djportfolio/assets/bichena.pdf"
     },
     {
         title: "mocadream 프로젝트",
         description: "스터디룸 예약 웹 서비스, 예약 시스템 및 파일 업로드 구현.",
-        link: "/assets/mocadream.pdf"
+        link: "/djportfolio/assets/mocadream.pdf"
     }
 ];

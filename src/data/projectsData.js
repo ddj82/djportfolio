@@ -2,7 +2,7 @@ export const projects = [
     {
         title: "Roomi - 웹 서비스",
         description: "스타트업 환경에서 MVP 설계 및 프론트 전담 개발.",
-        link: "https://roomi.co.kr"
+        link: "https://ddjpf.kro.kr/"
     },
     {
         title: "GitHub 블로그 자동 배포",
